@@ -1,0 +1,8 @@
+Catherine Forrest 
+1/21/20
+
+Week01 IST 263 Summary:
+
+This first week in class we learned the layout of the class and the class expectations in addition to some vocabulary surrounding the key components that are crucial to the functioning of the world wide web. On day one we learned how to access the course website and then from there went over the course syllabus. Included was information on our midterm exams, homework, the individual project of creating a website which I am very excited about, and how to set up our computers which was a bit confusing at first but with the help from office hours I was able to get the hang of it. In the following class we went over the request response protocol HTTP, how DNS functions with an IP address, the difference between the web and internet, W3C, about browsers, and webservers. One possible question for the midterm exam could be: 
+______ handles HTTP requests and creates and sends an HTTP response. The Answer is: a Web server.  
+
