@@ -1,0 +1,42 @@
+html {
+    background-color: #071d24;
+
+}
+
+head {
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+    color: #80baca;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: x-large;
+    text-align: center;
+    color: #80baca;
+}
+
+header {
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    text-align: center;
+    border-style: solid;
+    border-width: medium;
+    border-color: #477a88;
+    
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: large;
+    text-decoration: underline;
+    color: #80baca;
+
+
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: small;
+    color: #b7dee9;
+}
